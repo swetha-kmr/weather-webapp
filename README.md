@@ -4,7 +4,7 @@
 
 This is a weather web application built to provide real-time weather information using the OpenWeatherMap API. The app is designed to be responsive, ensuring compatibility across various devices and screen sizes. The project leverages modern web technologies, offering a clean and intuitive user experience.
 
-## Screenshots
+## Screenshotss
 
 ### Dark Mode
 
